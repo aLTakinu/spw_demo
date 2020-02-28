@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Comment in own source by aLTakinu
 namespace FibonacciSeries {
   class Program {
     static void Main(string[] args) {
